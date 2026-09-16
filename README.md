@@ -68,7 +68,10 @@ elmo-hikes/
 ## Contributors
 <
 - **Loujayn** - BCIT CST Student, who enojys working with computers.
-- **Gabriel Ronceria-Munoz** - BCIT CST Student with a passion for outdoor adventures and user-friendly applications. Fun fact: Loves solving Rubik's Cubes in under a minute.
+- **Gabriel Ronceria-Munoz** - BCIT CST Student with a passion for outdoor adventures and Videogames. Fun fact: Loves Basketball and wants to learn more about the world of AI.
+
+---
+
 Taylor West - BCIT CST student with with a love of music, coding and robotics.
 
 ## Acknowledgments
