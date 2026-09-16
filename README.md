@@ -71,6 +71,7 @@ elmo-hikes/
 
 ---
 
+Taylor West - BCIT CST student with with a love of music, coding and robotics.
 
 ## Acknowledgments
 
