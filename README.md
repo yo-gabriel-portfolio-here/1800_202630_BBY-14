@@ -66,6 +66,10 @@ elmo-hikes/
 
 
 ## Contributors
+- **Gabriel Ronceria-Munoz** - BCIT CST Student with a passion for outdoor adventures and user-friendly applications. Fun fact: Loves solving Rubik's Cubes in under a minute.
+- **Taylor, Loujayn** - BCIT CST Student, Frontend enthusiast with a knack for creative design. Fun fact: Has a collection of over 50 houseplants.
+
+---
 
 Taylor West - BCIT CST student with with a love of music, coding and robotics.
 
